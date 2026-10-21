@@ -19,7 +19,7 @@ namespace Constants
 	static constexpr int _softPods = 249;
 
 	// Scaling
-	static constexpr float _scale = 6.f;
+	static constexpr float _scale = 2.5f;
 	static constexpr float _speedScale = _scale / 3.f;		// 3x is base scale that we are finding speeds at, use that as divisor
 
 	static constexpr int _tileSize = 16;

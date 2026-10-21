@@ -364,3 +364,6 @@ FodyWeavers.xsd
 
 # Game-specific data
 Bomberman/Savedata/
+build/
+out/
+.vs/

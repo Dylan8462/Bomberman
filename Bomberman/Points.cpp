@@ -1,5 +1,6 @@
 #include "Points.h"
 #include <iostream>
+#include <cmath>
 
 using namespace Constants;
 
